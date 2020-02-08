@@ -8,9 +8,7 @@
 ```
 sudo apt update
 wget https://bootstrap.pypa.io/get-pip.py
-sudo python2 get-pip.py
 sudo python3 get-pip.py
-sudo apt install python-pip
 sudo apt install python3-pip
 sudo pip3 install numpy
 sudo pip3 install matplotlib
