@@ -21,7 +21,6 @@ git clone https://github.com/jetsonworld/jetson-thermal-monitor.git
 
 # 구동하기
 ```
-git clone https://github.com/jetsonworld/jetson-thermal-monitor.git
 cd jetson-thermal-monitor
 python3 jetson_temp_monitor.py
 ```
