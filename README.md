@@ -1,5 +1,5 @@
-# jetson-thermal-monitor
-Real-time plot of temperatures from NVIDIA Jetson on-module thermal sensors
+# 젯슨나노  모니터
+
 젯슨나노의 모듈타입 온도센서 출력하기
 
 <img src="./jetson_temp_monitor.gif" alt="Screenshot" title="Screenshot">
