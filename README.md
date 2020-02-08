@@ -22,7 +22,7 @@ $ python3 jetson_temp_monitor.py
 ```
 
 # 노트
-- This script is tested on NVIDIA Jetson Nano Developer Kit only.
+- 이 매뉴얼은 젯슨나노에서만 테스트했습니다.
 
 # 출처
 https://github.com/tsutof/jetson-thermal-monitor
